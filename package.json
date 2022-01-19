@@ -1,0 +1,22 @@
+{
+  "name": "crypto-polls-api",
+  "version": "1.0.0",
+  "description": "Helps crypto enthusiast follow the market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Indie Mike",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
